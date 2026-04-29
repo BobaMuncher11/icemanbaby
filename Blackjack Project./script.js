@@ -2,8 +2,8 @@
 let deckId = '';
 let playerHand = [];
 let dealerHand = [];
-let bankroll = 1000;
-let currentBet = 200;
+let bankroll = 100000;
+let currentBet = 500;
 let doubleUsed = false;
 let dealerHiddenCard = null;
 
